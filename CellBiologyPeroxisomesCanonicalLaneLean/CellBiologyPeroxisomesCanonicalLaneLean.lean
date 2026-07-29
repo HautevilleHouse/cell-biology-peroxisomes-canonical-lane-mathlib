@@ -1,0 +1,14 @@
+import CellBiologyPeroxisomesCanonicalLaneLean.AdmissibleClass
+import CellBiologyPeroxisomesCanonicalLaneLean.BridgeLemmas
+import CellBiologyPeroxisomesCanonicalLaneLean.GateLemmas
+import CellBiologyPeroxisomesCanonicalLaneLean.FinalTheorem
+import CellBiologyPeroxisomesCanonicalLaneLean.MathlibObjects
+import CellBiologyPeroxisomesCanonicalLaneLean.Projection
+
+namespace HautevilleHouse
+namespace CellBiologyPeroxisomesCanonicalLaneLean
+
+-- Root module
+
+end CellBiologyPeroxisomesCanonicalLaneLean
+end HautevilleHouse
